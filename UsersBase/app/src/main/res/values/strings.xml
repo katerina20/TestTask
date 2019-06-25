@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UsersBase</string>
+    <string name="email">Email</string>
+    <string name="location">Location</string>
+    <string name="registered">Register date</string>
+    <string name="dob">Date of birth</string>
+    <string name="error">Error loading</string>
+    <string name="retry">Retry</string>
+
+</resources>
